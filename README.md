@@ -1,6 +1,6 @@
 Hi there, i'm Mphatso Chintedza 👋🏿
 
-## I'm a recent graduate who is intersted in learning and develop my skills in IT field!
+## I'm a recent graduate in BSc IT who is intersted in learning and develop my skills in IT field!
 
 - 🔭 I launched a Portable Scanner System.
 - 🌱 I'm curremntly learning and developing my IT skills especially in cybersecurity or related field.
@@ -14,8 +14,8 @@ https://www.linkedin.com/in.mphatso-=chintedza-353458117/
 
 ## Languages and Tools:
 
--Python
--HTML
--CSS
--MySQL
--Java
+- Python
+- HTML
+- CSS
+- MySQL
+- Java
